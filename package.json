@@ -1,0 +1,15 @@
+{
+  "name": "string-incrementer-5kyu",
+  "version": "1.0.0",
+  "description": "Write a function which increments a string, to create a new string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
